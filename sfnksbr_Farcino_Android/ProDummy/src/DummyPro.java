@@ -11,14 +11,14 @@ public class DummyPro {
 		String geht = "Sollte klappen!";
 		
 		
-		
+		if(nummer < 0) { System.out.print("echt weng oida");
 		
 		
 		if (nummer < a) {System.out.print("Hello! ");}
 		else {System.out.print("Ola! ");}
 		if (nummer == c) {System.out.print("Brua! ");}
 		
-		System.out.print(geht);
+		System.out.print(geht endlich);
 		
 	}
 
